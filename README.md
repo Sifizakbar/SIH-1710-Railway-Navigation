@@ -30,7 +30,7 @@ The system will prioritize accessibility by offering wheelchair-friendly routes,
 The initial prototype will focus on one railway station using a manually prepared indoor map and verified facility locations. Additional stations and advanced real-time positioning can be incorporated in future versions.
 
 ## Proposed Solution / Architecture
-
+![alt text](<RailGuide AI Navigation System Infographic.png>)
 ### 1. Passenger Interface
 - Provide a responsive web application accessible through mobile phones and computers.
 - Display an interactive indoor station map.
